@@ -9,4 +9,7 @@
  
  ![image](https://user-images.githubusercontent.com/70482136/122659826-5e772480-d199-11eb-9367-63bcf459e939.png)
 
+Architecture:
+
+![image](https://user-images.githubusercontent.com/70482136/122659856-8a92a580-d199-11eb-90c9-b755e0d407eb.png)
 
